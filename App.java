@@ -7,7 +7,7 @@ public class App {
         Scanner scanner = new Scanner(System.in);
         int option;
         do {
-            System.out.println("Calculadora de Area de Yago Serer");
+            System.out.println("Calculadora de Area por Yago Serer");
 	    System.out.println("Selecciona una opcion:");
             System.out.println("1. Círculo");
             System.out.println("2. Cuadrado");
