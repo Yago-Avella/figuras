@@ -8,7 +8,7 @@ public class App {
         int option;
         do {
             System.out.println("Calculadora de Area POR Yago Serer");
-	    System.out.println("Selecciona una opcion:");
+	        System.out.println("Selecciona una opcion:");
             System.out.println("1. Círculo");
             System.out.println("2. Cuadrado");
             System.out.println("3. Triángulo");
